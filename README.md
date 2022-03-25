@@ -8,7 +8,5 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt=c# src="https://img.shields.io/badge/C%23-39120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
-   <img align="center" alt=.NET src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=whit.NET"/>  
-  <a target="_blank" href="https://icons8.com/icon/1043/html">HTML</a> <a target="_blank" href</> 
-  <a target="_blank" href="https://icons8.com/icon/59952/sql">SQL</a><a target="_blank" href</>
+  <img align = "center" alt = "Csharp" height = "60" width = "70" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  >
+   
